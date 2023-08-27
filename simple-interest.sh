@@ -5,7 +5,7 @@
    
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <ssnigam05>
+   # ssnigam05
    
    # Input:
    # p, principal amount
